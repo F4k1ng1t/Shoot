@@ -8,6 +8,7 @@ public class BulletBehavior : MonoBehaviour
 
     public Camera Main_Camera;
     public GameObject Player;
+    
     public float onScreenDelay = 3f;
     // Start is called before the first frame update
     void Start()

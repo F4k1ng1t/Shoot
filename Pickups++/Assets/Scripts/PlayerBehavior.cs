@@ -7,6 +7,8 @@ using UnityEngine.UI;
 
 public class PlayerBehavior : MonoBehaviour
 {
+    public GameBehavior gameManager;
+
     public float moveSpeed = 10f;
 
     public float jumpVelocity = 5f;
